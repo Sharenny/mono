@@ -1,0 +1,246 @@
+.container{
+    margin-top: 4%;
+    background-color: beige;
+}
+
+.bibliografia{
+color: hsla(332, 67%, 47%, 0.897) ;
+}
+.titulobi{
+    margin-top: 5%;
+    }
+.letrasblanco{
+    color: white;
+}
+.top{
+    margin-top: 1%;
+    background-color: pink;
+}
+.tops{
+    margin-top: 1%;
+    background-color: red;
+}
+.titulo{
+    align-items: center;
+    color: white;
+}
+.sharenny{
+    height: 10%;
+    width: -10%;
+    background: linear-gradient(to left, hsla(332, 99%, 39%, 0.596), rgba(241, 158, 197, 0.932),rgba(247, 40, 154, 0.76));
+    margin-bottom: 0%;
+    overflow: hidden;
+    margin-top: 5%;
+}
+.saul{
+    height: 10%;
+    width: -10%;
+    background: linear-gradient(to left, hsla(22, 67%, 47%, 0.897), rgba(245, 25, 18, 0.5), rgb(238, 10, 10));
+    margin-bottom: 0%;
+    overflow: hidden;
+    margin-top: 3%;
+}
+.antonio{
+    height: 10%;
+    width: -10%;
+    background: linear-gradient(to left, hsla(236, 42%, 67%, 0.897), rgba(18, 237, 245, 0.5), rgb(1, 57, 83));
+    margin-bottom: 0%;
+    overflow: hidden;
+    margin-top: 3%;
+}
+
+.monografia{
+    height: 10%;
+    width: -10%;
+    background: linear-gradient(to left, hsla(120, 67%, 47%, 0.897), rgba(44, 240, 102, 0.5), rgb(1, 83, 1));
+    margin-bottom: 0%;
+    overflow: hidden;
+    margin-top: 3%;
+}
+
+.boton{
+    margin-top: 0.9%;
+   margin-left: 40%;
+
+}
+
+.sha{
+    background-color: rgb(238, 110, 200);
+    color: rgb(250, 237, 236);
+}
+
+.s{
+    background-color: rgb(255, 110, 110);
+    color: rgb(250, 237, 236);
+}
+.a{
+    background-color: rgb(104, 160, 212);
+    color:rgb(250, 237, 236);
+}
+.m{
+    background-color: rgb(112, 211, 137);
+    color: rgb(250, 237, 236);
+}
+
+.titulosha{
+    color: rgba(247, 40, 154, 0.76);
+    margin-top: 5%;
+    margin-left: 0%
+    
+}
+.titulosa{
+    color: red;
+    margin-top: 5%;
+    margin-left: 0%
+    
+}
+.imgSha{
+    width: 40%; 
+    right: 25%; 
+    margin-left: 13%;
+    margin-top: 4%;
+}
+.imgSa{
+    width: 40%; 
+    right: 25%; 
+    margin-left: 13%;
+    margin-top: 4%;
+}
+.textoArribaSha{
+    margin-left: 50%;
+    margin-top: -32%;
+}
+.textoSa{
+    margin-left: 50%;
+    margin-top: -25%;
+    color:white;
+}
+.nombreSha{
+    margin-top: 5%;
+    margin-left: 11%;
+    color: rgba(247, 40, 154, 0.76);
+}
+.nombreSa{
+    margin-top: 5%;
+    margin-left: -35%;
+    color: red;
+    text-align: center;
+}
+.fondo{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parte1{
+    text-align: center;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6OLQ2_9KRZZ51w9RGjo3uV9lSvRN_aBG58Q&usqp=CAU');
+    width: 700px;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.parte2{
+    text-align: center;
+    background-image: url('https://s3.amazonaws.com/businessinsider.mx/wp-content/uploads/2022/06/09154807/peli%CC%81culas-Marvel-1280x620.jpg');
+    width: 700px;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.parte3{
+    text-align: center;
+    background-color: black;
+    width: 700px;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.tituloan{
+    color: rgba(52, 1, 255, 0.76);
+    margin-top: 5%;
+    margin-left: 0%
+}
+.imgan{
+    width: 40%; 
+    right: 25%; 
+    margin-left: 13%;
+    margin-top: 4%;
+}
+.textoArribaan{
+    margin-left: 50%;
+    margin-top: -32%;
+}
+.nombrean{
+    margin-top: 5%;
+    margin-left: 11%;
+    color: rgba(40, 57, 247, 0.76);
+}
+.goku{
+    margin-top: 1%;
+    background-color:rgb(23, 8, 237);
+}
+.mparte2{
+    align-items: center;
+    margin-left: 30%;
+    margin-top: -15.5%;
+}
+.mparte21{
+    align-items: center;
+}
+.mparte1{
+    margin-left: 10%;
+}
+.mparte11{
+    align-items: center;
+}
+.mparte3{
+    align-items: center;
+    margin-left: 56%;
+    margin-top: -15.5%;
+}
+.mparte31{
+    align-items: center;
+}.mparte4{
+    align-items: center;
+    margin-left: 10%;
+}
+.mparte41{
+    align-items: center;
+}.mparte5{
+    margin-top: -15.5%;
+    align-items: center;
+    margin-left: 36%;
+}
+.mparte51{
+    align-items: center;
+}.mparte6{
+    align-items: center;
+    margin-left: 56%;
+    margin-top: -15.5%;
+}
+.mparte61{
+    align-items: center;
+}
+.ES{ margin-left: 4%;
+}
+.GA{ margin-left: 8%;
+}
+.LE{ margin-left: 8%;
+}
+.RE{ margin-left: 7%;
+}
+.tituloEc{
+    align-items: center;
+}
+.textoEc{
+    text-align: center;
+    color: red;
+}
+
+.containermono{
+    width: 1580px;
+    right: 150px;
+    background-color: aqua;
+    align-content: center;
+    margin-top: 50px;
+    margin-left: 80px;
+}
